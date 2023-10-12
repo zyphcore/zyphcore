@@ -1,5 +1,5 @@
 ```sh
-> neofetch
+> zyph
 ```
 
 ```
