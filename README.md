@@ -3,12 +3,12 @@
 ```
 
 ```
-                                                                 root@zyph
+                                                                 root@stijn
            .m.                                   ,_              --------- 
-         ' ;M;                                ,;m;               OS : EndeavourOS Linux
-           ;M;.           ,      ,           ;SMM;               Languages : Lua, Python, PHP, Java, JavaScript, C
-          ;;Mm;         ,;  ____  ;,         ;SMM;               Learning : Rust, C++, ASM
-         ;;;MM;        ; (.MMMMMM.) ;       ,SSMM;;              Employed : yes
+         ' ;M;                                ,;m;               OS : Windows, macOS
+           ;M;.           ,      ,           ;SMM;               Languages : HTML, Python, PHP, CSS, JavaScript, scss
+          ;;Mm;         ,;  ____  ;,         ;SMM;               Learning : Server, C++
+         ;;;MM;        ; (.MMMMMM.) ;       ,SSMM;;              Employed : no
        ,;;;mMp'        l  ';mmmm;/  j       SSSMM;;              ---------
      .;;;;;MM;         .\,.mmSSSm,,/,      ,SSSMM;;;             Shell: zsh
     ;;;;;;mMM;        .;MMmSSSSSSSmMm;     ;MSSMM;;;;            
