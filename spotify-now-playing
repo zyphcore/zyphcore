@@ -1,0 +1,12 @@
+<script>start("/Users/stijn/Desktop/homepro/zyphcore/spotify-now-playing/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("node_modules","node_modules",1,2464,"2.4 kB",1742202920,"17-03-2025, 10:15:20");</script>
+<script>addRow("public","public",1,224,"224 B",1742202889,"17-03-2025, 10:14:49");</script>
+<script>addRow("src","src",1,96,"96 B",1742202889,"17-03-2025, 10:14:49");</script>
+<script>addRow(".env",".env",0,259,"259 B",1742203328,"17-03-2025, 10:22:08");</script>
+<script>addRow(".gitignore",".gitignore",0,480,"480 B",1742202889,"17-03-2025, 10:14:49");</script>
+<script>addRow("jsconfig.json","jsconfig.json",0,77,"77 B",1742202889,"17-03-2025, 10:14:49");</script>
+<script>addRow("next.config.mjs","next.config.mjs",0,92,"92 B",1742202889,"17-03-2025, 10:14:49");</script>
+<script>addRow("package-lock.json","package-lock.json",0,50508,"49.3 kB",1742202920,"17-03-2025, 10:15:20");</script>
+<script>addRow("package.json","package.json",0,394,"394 B",1742202920,"17-03-2025, 10:15:20");</script>
+<script>addRow("README.md","README.md",0,1449,"1.4 kB",1742202889,"17-03-2025, 10:14:49");</script>
